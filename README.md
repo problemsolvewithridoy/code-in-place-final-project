@@ -1,5 +1,5 @@
 
-# Stanford Code in Place Project - Final Project (The WordGuess game) 
+# Stanford Code in Place - Final Project (The WordGuess game) 
 
 This is one of several final project ideas. You can implement any of the final project ideas, or you can come up with your own. 
 
